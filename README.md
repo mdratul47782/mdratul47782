@@ -19,7 +19,7 @@
 ## 📫 How to reach me:
 - LinkedIn: [Md. Ratul](https://www.linkedin.com/in/mdratul)
 - Twitter: [@mdratul47782](https://twitter.com/mdratul47782)
-- Email: md.ratul@example.com
+- Email: mdratul47782@gmail.com
 
 ## 😄 Pronouns:
 - He/Him
