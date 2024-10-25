@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Ratul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdratul47782" alt="mdratul47782" /></a> </p>
-
 - 🔭 I’m currently working on [Projectify Task Management App](https://github.com/mdratul47782/Projectify-Task-Management-System--Assaingnment-3/tree/main)
 
 - 🌱 I’m currently learning **React Accelerator by Learn with Sumit, and modern web design frameworks**
@@ -36,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdratul47782&show_icons=true&locale=en&layout=compact" alt="mdratul47782" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdratul47782&show_icons=true&locale=en" alt="mdratul47782" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdratul47782&" alt="mdratul47782" /></p>
