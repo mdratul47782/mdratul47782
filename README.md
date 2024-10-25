@@ -1,47 +1,40 @@
-# 👋 Hi, I’m Md. Ratul
+<h1 align="center">Hi 👋, I'm Md. Ratul</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-## 👀 I’m interested in:
-- Plant disease detection using deep learning models
-- Web development with a focus on front-end technologies
-- Cybersecurity and ethical hacking
-- Game development and immersive technologies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdratul47782" alt="mdratul47782" /></a> </p>
 
-## 🌱 I’m currently learning:
-- Tailwind CSS for modern web design
-- Advanced React JS techniques and best practices
-- Latest trends in deep learning for mobile applications
+- 🔭 I’m currently working on [Projectify Task Management App](https://github.com/mdratul47782/Projectify-Task-Management-System--Assaingnment-3/tree/main)
 
-## 💞️ I’m looking to collaborate on:
-- Projects involving plant disease detection and agricultural technology
-- Web development projects using React, JavaScript, and Tailwind CSS
-- Open-source projects in cybersecurity and ethical hacking
+- 🌱 I’m currently learning **React Accelerator by Learn with Sumit, and modern web design frameworks**
 
-## 📫 How to reach me:
-- LinkedIn: [Md. Ratul](https://www.linkedin.com/in/mdratul)
-- Twitter: [@mdratul47782](https://twitter.com/mdratul47782)
-- Email: mdratul47782@gmail.com
+- 👯 I’m looking to collaborate on **React and Web Development Projects**
 
-## 😄 Pronouns:
-- He/Him
+- 🤝 I’m looking for help with **Open Source Projects**
 
-## ⚡ Fun fact:
-- I once led a project that developed a deep learning model for real-time plant disease detection via mobile applications, and I'm passionate about applying technology to solve real-world problems!
+- 👨‍💻 All of my projects are available at [https://github.com/mdratul47782?tab=repositories](https://github.com/mdratul47782?tab=repositories)
 
----
+- 💬 Ask me about **React, JavaScript,NextJs,NodeJs,Networking Sector and GSAP**
 
-### About Me:
+- 📫 How to reach me **mdratul47782@gmail.com**
 
-I'm a passionate software developer with experience in a variety of technologies and projects. I have a background in:
+- 📄 Know about my experiences [During my internship at Battery Low Interactive Ltd., I worked as a frontend web developer, where I collaborated with a dynamic team to build responsive and engaging web applications. My role involved translating design concepts into interactive user interfaces, utilizing technologies like React, JavaScript, and CSS. I gained hands-on experience with React components, state management, and API integration, and enhanced my skills in debugging and optimizing code for performance. This experience allowed me to bridge theoretical knowledge with practical application, aligning industry standards with creative solutions for immersive user experiences.](During my internship at Battery Low Interactive Ltd., I worked as a frontend web developer, where I collaborated with a dynamic team to build responsive and engaging web applications. My role involved translating design concepts into interactive user interfaces, utilizing technologies like React, JavaScript, and CSS. I gained hands-on experience with React components, state management, and API integration, and enhanced my skills in debugging and optimizing code for performance. This experience allowed me to bridge theoretical knowledge with practical application, aligning industry standards with creative solutions for immersive user experiences.)
 
-- **Programming Languages:** C, C++, JavaScript, Python, Java
-- **Web Technologies:** React JS, HTML, CSS, Bootstrap, Tailwind CSS
-- **Projects:**
-  - Health_Care_Management_Online_Application
-  - Face_Recognition_Application
-  - E-commerce website
-  - Federated-learning
-- **Experience:**
-  - Industrial training in front-end web development and call center technology
-  - Research in plant disease detection using deep learning
+- ⚡ Fun fact **I can make websites responsive… but not my sleep schedule!**
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md-ratul-05a366283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-ratul-05a366283" height="30" width="40" /></a>
+<a href="https://kaggle.com/mdratul2149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdratul2149" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/arafatullah.al.muaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arafatullah.al.muaz/" height="30" width="40" /></a>
+<a href="https://instagram.com/ratul__aka__muaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ratul__aka__muaz" height="30" width="40" /></a>
+<a href="https://discord.gg/ratul01752362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ratul01752362" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdratul47782&show_icons=true&locale=en&layout=compact" alt="mdratul47782" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdratul47782&show_icons=true&locale=en" alt="mdratul47782" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdratul47782&" alt="mdratul47782" /></p>
