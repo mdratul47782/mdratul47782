@@ -1,68 +1,36 @@
-<h1 align="left">Hi 👋, I'm Md. Ratul</h1>
+<h1 align="center">Hi 👋, I'm Md. Ratul</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-###
+- 🔭 I’m currently working on [Quiz App](https://github.com/mdratul47782/Projectify-Task-Management-System--Assaingnment-3/tree/main)
 
-<p align="center">Hi 👋, I'm Md. Ratul</p>
+- 🌱 I’m currently learning **React Accelerator by Learn with Sumit, and modern web design frameworks**
 
-###
+- 👯 I’m looking to collaborate on **React and Web Development Projects**
 
-<h2 align="left">About me</h2>
+- 🤝 I’m looking for help with **Open Source Projects**
 
-###
+- 👨💻 All of my projects are available at [https://github.com/mdratul47782?tab=repositories](https://github.com/mdratul47782?tab=repositories)
 
-<p align="left">Hi there! I'm a passionate web developer from Bangladesh, actively building my expertise in React, Next.js, and modern full-stack technologies. Through hands-on projects like e-commerce platforms, movie databases, and quiz applications, I've honed my skills in crafting dynamic and responsive user experiences.<br><br>🌱 I’m currently deepening my knowledge through the React Exilator course by Learn with Shumit, where I’m mastering key tools like MongoDB and scalable Next.js APIs.<br>✨ My recent achievements include creating a functional Airbnb clone using Next.js API routes for data handling with MongoDB, showcasing my growing back-end capabilities.<br>💡 I'm committed to becoming a full-stack developer, with plans to strengthen my proficiency in Node.js soon.<br><br>Skills & Tools 🛠️<br>Frontend: React, Next.js, React Query, React Hook Form, Firebase<br>Backend: MongoDB (via Next.js API Routes)<br>Other Tools: Axios, JavaScript, CSS, and more<br>🚀 I'm constantly seeking opportunities to collaborate on projects that push me to learn and grow. When I'm not coding, I enjoy mentoring others, particularly helping them excel in English!<br><br>📫 Feel free to reach out to discuss web development, brainstorm ideas, or simply connect. Let’s build something amazing together!</p>
+- 💬 Ask me about **React, JavaScript,NextJs,NodeJs,Networking Sector and GSAP**
 
-###
+- 📫 How to reach me **mdratul47782@gmail.com**
 
-<h2 align="left">I code with</h2>
+- 📄 Know about my experiences [During my internship at Battery Low Interactive Ltd., I worked as a frontend web developer, where I collaborated with a dynamic team to build responsive and engaging web applications. My role involved translating design concepts into interactive user interfaces, utilizing technologies like React, JavaScript, and CSS. I gained hands-on experience with React components, state management, and API integration, and enhanced my skills in debugging and optimizing code for performance. This experience allowed me to bridge theoretical knowledge with practical application, aligning industry standards with creative solutions for immersive user experiences.](During my internship at Battery Low Interactive Ltd., I worked as a frontend web developer, where I collaborated with a dynamic team to build responsive and engaging web applications. My role involved translating design concepts into interactive user interfaces, utilizing technologies like React, JavaScript, and CSS. I gained hands-on experience with React components, state management, and API integration, and enhanced my skills in debugging and optimizing code for performance. This experience allowed me to bridge theoretical knowledge with practical application, aligning industry standards with creative solutions for immersive user experiences.)
 
-###
+- ⚡ Fun fact **I can make websites responsive… but not my sleep schedule!**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md-ratul-05a366283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-ratul-05a366283" height="30" width="40" /></a>
+<a href="https://kaggle.com/mdratul2149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdratul2149" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/arafatullah.al.muaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arafatullah.al.muaz/" height="30" width="40" /></a>
+<a href="https://instagram.com/ratul__aka__muaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ratul__aka__muaz" height="30" width="40" /></a>
+<a href="https://discord.gg/ratul01752362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ratul01752362" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <img height="200" src="https://img.devrant.com/devrant/rant/r_2134906_zD4fu.jpg"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdratul47782&show_icons=true&locale=en&layout=compact" alt="mdratul47782" /></p>
 
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/md-ratul-05a366283" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="mdratul47782@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/arafatullah.al.muaz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdratul47782&show_icons=true&locale=en" alt="mdratul47782" /></p>
