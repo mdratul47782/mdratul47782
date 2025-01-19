@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Quiz App](https://github.com/mdratul47782/Projectify-Task-Management-System--Assaingnment-3/tree/main)
 
-- 🌱 I’m currently learning **React Accelerator by Learn with Sumit, and modern web design frameworks**
+- 🌱 I’m currently learning **React Accelerator by Learn With Sumit, and modern web design frameworks**
 
 - 👯 I’m looking to collaborate on **React and Web Development Projects**
 
