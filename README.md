@@ -11,7 +11,7 @@
 
 - 👨💻 All of my projects are available at [https://github.com/mdratul47782?tab=repositories](https://github.com/mdratul47782?tab=repositories)
 
-- 💬 Ask me about **React, JavaScript,NextJs,NodeJs,Networking Sector and GSAP**
+- 💬 Ask me about **React, JavaScript,NextJs,NodeJs,Networking Sector and research**
 
 - 📫 How to reach me **mdratul47782@gmail.com**
 
