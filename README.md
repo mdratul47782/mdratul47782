@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Ratul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Quiz App](https://github.com/mdratul47782/Projectify-Task-Management-System--Assaingnment-3/tree/main)
+- 🔭 I’m currently working on [AirBnb a nextjs fullstack project](https://github.com/mdratul47782/Projectify-Task-Management-System--Assaingnment-3/tree/main)
 
 - 🌱 I’m currently learning **React Accelerator by Learn With Sumit, and modern web design frameworks**
 
