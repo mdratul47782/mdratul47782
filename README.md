@@ -20,7 +20,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building: **Airbnb-style full-stack app with Next.js**
+- 💼 Currently working at **HKD Outdoor Innovations LTD** as an **Executive – ERP**
+- 🔭 Building: **Airbnb-style full-stack app with Next.js**
 - 🌱 Learning: **React Accelerator (Learn With Sumit)** & modern UI/UX patterns  
 - 👯 Open to collaborate on: **React / Next.js / Node.js / MERN** projects  
 - 🤝 Interested in: **Open Source, research & networking**  
@@ -31,6 +32,18 @@
 ---
 
 ## 💼 Experience
+
+### 🧩 Executive – ERP · HKD Outdoor Innovations LTD  
+As an **Executive ERP**, I work on building and maintaining internal systems for production, quality, and overall company operations:
+
+- Designing and developing **Next.js-based full-stack applications** for garments production & quality tracking  
+- Building custom ERP modules for **line-wise reports, hourly dashboards, and real-time data visualization**  
+- Working closely with production and quality teams to turn manual processes into **automated digital workflows**  
+- Integrating **MongoDB/Mongoose** and REST APIs to keep data centralized, consistent, and easy to analyze  
+
+---
+
+### 🧪 Frontend Developer Intern · Battery Low Interactive Ltd.
 
 During my internship at **Battery Low Interactive Ltd.**, I worked as a **frontend web developer**, collaborating with a dynamic team to build responsive and engaging web applications.
 
