@@ -29,7 +29,7 @@ const ratul = {
   location: "📍 Chattogram, Bangladesh",
   role: "💼 Executive – ERP @ HKD Outdoor Innovations LTD",
   focus: ["Full-Stack Development", "ERP Systems", "Quality Control Automation"],
-  currentlyBuilding: "🏗️ Airbnb-style full-stack app with Next.js",
+  currentlyBuilding: "🏗️ Finished Goods Warehouse full-stack app with Next.js",
   learning: ["React Accelerator with Learn With Sumit", "Modern UI/UX patterns"],
   openToCollaborate: ["React/Next.js projects", "MERN stack", "Open Source"],
   funFact: "I can make websites responsive… but not my sleep schedule! 😴",
