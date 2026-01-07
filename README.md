@@ -160,7 +160,7 @@ const myImpact = {
 
 ### 🏗️ Current Projects
 
-- **🏠 Airbnb Clone** - Full-stack vacation rental platform with Next.js, MongoDB, and real-time booking
+- **🏠 Finished Goods Warehouse** - Full-stack Row Allocation with Carton Scanning platform with Next.js, MongoDB, and real-time booking
 - **📊 ERP Dashboard** - Production line quality control system with hourly tracking & analytics
 - **🎨 Portfolio Website** - Modern, responsive portfolio showcasing my work and skills
 
