@@ -54,7 +54,8 @@ const ratul = {
 
 ### 🏅 GitHub Trophies
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mdratul47782&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 📈 Contribution Graph
 
