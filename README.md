@@ -49,25 +49,29 @@ const ratul = {
 
 ### 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdratul47782&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdratul47782&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=ffffff" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mdratul47782&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&rank_icon=github&include_all_commits=true" />
+</a>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdratul47782&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=ffffff" />
+</a>
 
 ### 🏅 GitHub Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdratul47782&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdratul47782&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </a>
-
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdratul47782&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdratul47782&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
-### 💻 Most Used Languages (by commit)
+### 💻 WakaTime Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdratul47782&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=ffffff" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdratul47782&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=ffffff" alt="WakaTime Stats" />
+</a>
 
 </div>
 
@@ -89,10 +93,10 @@ const myImpact = {
 ```
 
 **Key Achievements:**
-- ✅ Developed custom ERP modules serving 10+ production lines
-- ✅ Reduced manual data entry time by 70% through automation
-- ✅ Built real-time quality control dashboards for instant insights
-- ✅ Integrated MongoDB for centralized data management
+- ✅ Developed custom ERP modules serving 10+ production lines  
+- ✅ Reduced manual data entry time by 70% through automation  
+- ✅ Built real-time quality control dashboards for instant insights  
+- ✅ Integrated MongoDB for centralized data management  
 
 ---
 
@@ -100,10 +104,10 @@ const myImpact = {
 
 **Bridging Design and Development**
 
-- 🎨 Transformed UI/UX designs into interactive React interfaces
-- ⚡ Worked with **React, JavaScript, CSS** and API integration
-- 🔧 Gained hands-on experience in state management & performance optimization
-- 🤝 Collaborated with cross-functional teams in agile environment
+- 🎨 Transformed UI/UX designs into interactive React interfaces  
+- ⚡ Worked with **React, JavaScript, CSS** and API integration  
+- 🔧 Gained hands-on experience in state management & performance optimization  
+- 🤝 Collaborated with cross-functional teams in agile environment  
 
 ---
 
@@ -171,9 +175,9 @@ const myImpact = {
 
 ## 🏗️ Current Projects
 
-- **🏠 Finished Goods Warehouse** - Full-stack Row Allocation with Carton Scanning platform with Next.js, MongoDB, and real-time booking
-- **📊 ERP Dashboard** - Production line quality control system with hourly tracking & analytics
-- **🎨 Portfolio Website** - Modern, responsive portfolio showcasing my work and skills
+- **🏠 Finished Goods Warehouse** - Full-stack Row Allocation with Carton Scanning platform with Next.js, MongoDB, and real-time booking  
+- **📊 ERP Dashboard** - Production line quality control system with hourly tracking & analytics  
+- **🎨 Portfolio Website** - Modern, responsive portfolio showcasing my work and skills  
 
 ---
 
@@ -199,11 +203,11 @@ Other        50 mins         █░░░░░░░░░░░░░░░░
 
 ## 🌟 What I'm Up To
 
-- 🔨 **Building:** Custom ERP solutions for manufacturing operations
-- 📚 **Learning:** Advanced React patterns, Next.js App Router, and system design
-- 🤝 **Collaborating:** Open to work on innovative MERN stack projects
-- 🎯 **Goals 2024:** Contribute to 10+ open source projects, master TypeScript, build a SaaS product
-- 💡 **Interests:** Web performance optimization, UI/UX design, automation
+- 🔨 **Building:** Custom ERP solutions for manufacturing operations  
+- 📚 **Learning:** Advanced React patterns, Next.js App Router, and system design  
+- 🤝 **Collaborating:** Open to work on innovative MERN stack projects  
+- 🎯 **Goals 2024:** Contribute to 10+ open source projects, master TypeScript, build a SaaS product  
+- 💡 **Interests:** Web performance optimization, UI/UX design, automation  
 
 ---
 
