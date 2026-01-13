@@ -52,9 +52,13 @@ const ratul = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdratul47782&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdratul47782&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=ffffff" />
 
+
+
 ### 🏅 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdratul47782&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</a>
 
 
 ### 📈 Contribution Graph
