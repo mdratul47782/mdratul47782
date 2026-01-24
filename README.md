@@ -48,19 +48,17 @@ const ratul = {
 
 ### 📊 GitHub Analytics
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+</picture> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdratul47782&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=ffffff" />
 </a>
 
 ### 🏅 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdratul47782&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdratul47782&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Contribution Graph
 
