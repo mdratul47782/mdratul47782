@@ -44,7 +44,7 @@ const ratul = {
 <div align="center">
 
 ### 🔥 Contribution Stats
-
+[![RATUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdratul47782)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdratul47782&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 ### 📊 GitHub Analytics
