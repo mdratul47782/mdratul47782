@@ -44,7 +44,7 @@ const ratul = {
 <div align="center">
 
 ### 🔥 Contribution Stats
-![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdratul47782&theme=radical&show_icons=true&include_all_commits=true&commits_year=2026)
+![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdratul47782&theme=radical&show_icons=true&include_all_commits=true)
 
 
 ### 📊 GitHub Analytics
