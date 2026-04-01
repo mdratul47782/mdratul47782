@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Next.js+%2B+React+%2B+MongoDB+Developer+%F0%9F%9A%80;ERP+Systems+for+Manufacturing+%F0%9F%8F%AD;IEEE+Published+Researcher+%F0%9F%93%84;Always+Learning%2C+Always+Shipping+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Next.js+%2B+React+%2B+MongoDB+%2B+PostgresSQL+Developer+%F0%9F%9A%80;ERP+Systems+for+Manufacturing+%F0%9F%8F%AD;IEEE+Published+Researcher+%F0%9F%93%84;Always+Learning%2C+Always+Shipping+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,7 +32,7 @@ const ratul: Developer = {
   name:       "MD. Ratul",
   title:      "ERP Software Engineer | Full-Stack Developer",
   location:   "📍 Dhanmondi, Dhaka-1209, Bangladesh",
-  education:  "BSc in CSE — Green University of Bangladesh (CGPA: 3.01)",
+  education:  "BSc in CSE — Green University of Bangladesh ",
   currentJob: "Executive – ERP @ HKD Outdoor Innovations Ltd. (Nov 2025 – Present)",
 
   expertise:  [
