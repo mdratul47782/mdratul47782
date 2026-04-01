@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Built+%2B+ERP+Systems+with+Next.js+%2B+React+%2B+Node.js+%2B+Express+%F0%9F%8F%AD;MongoDB+%2B+PostgreSQL+Powered+Full-Stack+Apps+%F0%9F%9A%80;IEEE+Published+Researcher+%F0%9F%93%84;Always+Learning%2C+Always+Shipping+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=%2B+ERP+Systems+with+Next.js+%2B+React+%2B+Node.js+%2B+Express+%F0%9F%8F%AD;MongoDB+%2B+PostgreSQL+Powered+Full-Stack+Apps+%F0%9F%9A%80;IEEE+Published+Researcher+%F0%9F%93%84;Always+Learning%2C+Always+Shipping+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 <br/><br/>
