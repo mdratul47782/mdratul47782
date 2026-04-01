@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD.%20Ratul&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ERP%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=ERP+Systems+with+Next.js+%2B+React+%2B+Node.js+%2B+Express;MongoDB+%2B+PostgreSQL+Powered+Full-Stack+Apps;IEEE+Published+Researcher;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Next.js+%2B+Node.js+%2B+MongoDB+%2B+PostgreSQL;Building+ERP+systems+that+run+in+real+factories;IEEE+published+%40+QPAIN+2025;Always+shipping%2C+rarely+sleeping" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,74 +23,34 @@
 
 ---
 
-## About Me
+## Hey, I'm Ratul
 
 ```typescript
 const ratul: Developer = {
-  name:       "MD. Ratul",
-  title:      "ERP Software Engineer | Full-Stack Developer",
-  location:   "Dhanmondi, Dhaka-1209, Bangladesh",
-  education:  "BSc in CSE — Green University of Bangladesh (CGPA: 3.01)",
-  currentJob: "Executive – ERP @ HKD Outdoor Innovations Ltd. (Nov 2025 – Present)",
-  expertise:  [
-    "Next.js 15 App Router", "React 19", "Node.js", "Express.js",
-    "MongoDB", "PostgreSQL", "GraphQL", "Socket.IO", "TypeScript",
-    "ERP Systems", "Manufacturing Systems"
+  location:   "Dhaka, Bangladesh",
+  currentJob: "Building ERP systems at HKD Outdoor Innovations Ltd.",
+  stack:      ["Next.js", "React", "Node.js", "Express", "MongoDB", "PostgreSQL"],
+  currentlyShipping: [
+    "Production & Quality Management ERP — actually live on factory floors",
+    "FG Warehouse system — carton tracking, barcode printing, the works",
   ],
-  currentlyBuilding: [
-    "Production & Quality Management ERP — Live at HKD",
-    "FG Warehouse MS — Carton Allocation + Barcode Printing",
-  ],
-  achievement: "IEEE Paper at QPAIN 2025 — 94.08% accuracy on plant disease detection",
-  funFact:     "I make websites responsive... but not my sleep schedule",
+  published:  "IEEE QPAIN 2025 — plant disease detection at 94.08% accuracy",
+  funFact:    "I make websites responsive... but not my sleep schedule",
 };
 ```
 
-<table>
-  <tr><td><b>Location</b></td><td>Dhanmondi, Dhaka-1209, Bangladesh</td></tr>
-  <tr><td><b>Current Role</b></td><td>Executive – ERP @ HKD Outdoor Innovations Ltd.</td></tr>
-  <tr><td><b>Education</b></td><td>BSc CSE — Green University of Bangladesh</td></tr>
-  <tr><td><b>Building</b></td><td>ERP modules live in production at HKD</td></tr>
-  <tr><td><b>Learning</b></td><td>React Native · Docker · Python · System Design</td></tr>
-  <tr><td><b>Contact</b></td><td>mdratul47782@gmail.com</td></tr>
-</table>
+I work as an ERP engineer at a manufacturing company in Chattogram. The stuff I build doesn't live in staging — it runs in production and gets used by real departments every day. Quality control teams, warehouse staff, IE engineers — they all use systems I wrote. That's the part I find genuinely interesting.
+
+Before this I did a web dev internship at Battery Low Interactive, and before that I was doing my CSE degree at Green University while building side projects and taking a pretty serious React course (shoutout Learn With Sumit).
+
+I also published a research paper on plant disease detection using deep learning. Pushed MobileNet V1 past InceptionV3 and VGG16 on accuracy. That was fun.
 
 ---
 
-## Professional Experience
+## What I'm working on
 
-### Executive – ERP | HKD Outdoor Innovations Limited
-**Nov 2025 – Present · KEPZ, Chattogram, Bangladesh**
-
-| Module Built | Impact |
-|---|---|
-| Quality Control System | Real-time line-wise quality tracking |
-| Production Dashboard | Hourly target vs achievement, efficiency % |
-| Maintenance Module | Machine inventory & line layout management |
-| HR Module | Department-level data management |
-| FG Warehouse MS | Visual carton allocation + barcode printing |
-
-- Designed & developed **5 ERP modules** serving multiple departments
-- Built role-based access: `Production` / `Quality` / `Maintenance` / `IE` / `Management`
-- Implemented building-level data isolation using custom hooks
-- Automated reporting features to enhance decision-making & productivity
-
----
-
-### Web Developer Intern | Battery Low Interactive Ltd.
-**July 2024 – Oct 2024 · Bangladesh**
-
-- Transformed UI/UX designs into interactive React interfaces
-- React, JavaScript, CSS — API integration & performance optimization
-- Code reviews, debugging, and quality assurance
-- Led a project group; delivered projects on time in an agile environment
-
----
-
-## Featured Projects
-
-### Production · Quality · Maintenance · IE Management System
-> *Live & Running at HKD Outdoor Innovations Ltd.*
+### Production / Quality / Maintenance / IE Management System
+*Running live at HKD Outdoor Innovations*
 
 <a href="https://github.com/mdratul47782/Quality_Production_Management_App_V2.0">
   <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -99,63 +59,44 @@ const ratul: Developer = {
   <img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-- Line-wise **hourly targets vs achievements**, efficiency %, style-wise WIP — real time
-- Role-based access control with **building-level data isolation**
-- IE Department: machine inventory + **machine line layout management**
-- **Stack:** `Next.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `DaisyUI` `JWT` `Cloudinary` `Framer Motion`
+Tracks hourly production targets vs actual output per line, efficiency percentages, style-wise WIP — all in real time. Different departments get different views based on their role. The IE module has a full machine inventory and lets you manage line layouts visually.
+
+Five modules total. Built the whole thing myself.
+
+**Stack:** `Next.js` `Express.js` `MongoDB` `Tailwind CSS` `DaisyUI` `JWT` `Cloudinary` `Framer Motion`
 
 ---
 
-### FG Warehouse MS — Allocation, Shipments & Barcode Printing
-> *Live & Running at HKD Outdoor Innovations Ltd.*
+### FG Warehouse Management System
+*Also live at HKD*
 
 <a href="https://github.com/mdratul47782/FG_Project_Claude">
   <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-> Demo Login — **Username:** `Ratul` · **Password:** `123456`
+> Demo login — **Username:** `Ratul` / **Password:** `123456`
 
-- Visual **carton allocation** into warehouse rows (continuous/segmented) with live placement engine + CBM metrics
-- Shipment scanning — auto-generate carton IDs — **barcode label printing** with carton range support
-- Admin editor: placement policies, row/warehouse switching, **searchable inventory**
-- **Stack:** `Next.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `DaisyUI` `JWT` `Framer Motion`
+Handles carton allocation into warehouse rows — continuous or segmented — with a live placement engine that tracks CBM metrics. Scan a shipment, get carton IDs auto-generated, print barcode labels with range support. Admins can configure placement policies, switch between rows/warehouses, and search through inventory.
+
+**Stack:** `Next.js` `Express.js` `MongoDB` `Tailwind CSS` `DaisyUI` `JWT` `Framer Motion`
 
 ---
 
-## Research & Publication
+## Research
+
+**Advancing Plant Disease Detection with Deep Learning**  
+IEEE QPAIN 2025 · BAUST, Bangladesh · Paper ID: 214
+
+Built PlantNet — a MobileNet V1 based model tuned for real-time plant disease detection on mobile devices. Hit 94.08% accuracy, which beat CNN, InceptionV3, and VGG16 on the same dataset. The goal was something lightweight enough to actually deploy on a phone, not just benchmark well on paper.
+
+---
+
+## Stack
 
 <div align="center">
 
-### Advancing Plant Disease Detection with Deep Learning
-**IEEE International Conference on Quantum Photonics, AI & Networking (QPAIN 2025)**  
-BAUST, Bangladesh · Paper ID: **214**
+**Frontend**
 
-</div>
-
-- Developed **PlantNet** — custom model based on MobileNet V1 for real-time mobile plant disease detection
-- Achieved **94.08% accuracy** — surpassing CNN, InceptionV3, and VGG16 benchmarks
-- Optimized specifically for **mobile application** deployment
-
----
-
-## Education & Courses
-
-| Degree | Institution | Year | Grade |
-|---|---|---|---|
-| BSc in Computer Science & Engineering | Green University of Bangladesh | 2020 – 2024 | CGPA: 3.01 |
-
-**React Accelerator Course** — *Learn With Sumit*
-- 5-month intensive: React, Next.js, state management, advanced patterns & ecosystem tools
-- Built **15+ projects** including a full Learning Management Platform
-- Certificate & Job Recommendation Letter received
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend
 <p>
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -166,7 +107,8 @@ BAUST, Bangladesh · Paper ID: **214**
   <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### Backend & Database
+**Backend & Databases**
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -177,7 +119,8 @@ BAUST, Bangladesh · Paper ID: **214**
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-### Auth & Services
+**Auth & Services**
+
 <p>
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -187,7 +130,8 @@ BAUST, Bangladesh · Paper ID: **214**
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
-### Tools & Platforms
+**Tools**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -197,7 +141,8 @@ BAUST, Bangladesh · Paper ID: **214**
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### Currently Learning
+**Learning next**
+
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -208,7 +153,7 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## GitHub Stats
+## Stats
 
 <div align="center">
 
@@ -223,7 +168,7 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## GitHub Trophies
+## Trophies
 
 <div align="center">
 
@@ -233,19 +178,9 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## Contribution Graph
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdratul47782&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=22c55e&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdratul47782/mdratul47782/output/github-contribution-grid-snake-dark.svg" />
@@ -257,7 +192,7 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## Connect With Me
+## Find me
 
 <div align="center">
 
@@ -284,20 +219,10 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-### If my work helped you, drop a star on some repos!
+If something I built was useful to you, a star goes a long way.
 
 </div>
