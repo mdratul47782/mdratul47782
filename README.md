@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD.%20Ratul&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ERP%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Built+ERP+Systems+with+Next.js+%2B+React+%2B+Node.js+%2B+Express;MongoDB+%2B+PostgreSQL+Powered+Full-Stack+Apps;IEEE+Published+Researcher;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=ERP+Systems+with+Next.js+%2B+React+%2B+Node.js+%2B+Express;MongoDB+%2B+PostgreSQL+Powered+Full-Stack+Apps;IEEE+Published+Researcher;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -49,7 +49,7 @@ const ratul: Developer = {
 <table>
   <tr><td><b>Location</b></td><td>Dhanmondi, Dhaka-1209, Bangladesh</td></tr>
   <tr><td><b>Current Role</b></td><td>Executive – ERP @ HKD Outdoor Innovations Ltd.</td></tr>
-  <tr><td><b>Education</b></td><td>BSc CSE — Green University of Bangladesh (CGPA: 3.01)</td></tr>
+  <tr><td><b>Education</b></td><td>BSc CSE — Green University of Bangladesh</td></tr>
   <tr><td><b>Building</b></td><td>ERP modules live in production at HKD</td></tr>
   <tr><td><b>Learning</b></td><td>React Native · Docker · Python · System Design</td></tr>
   <tr><td><b>Contact</b></td><td>mdratul47782@gmail.com</td></tr>
