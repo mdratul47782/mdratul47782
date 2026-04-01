@@ -1,22 +1,22 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD.%20Ratul&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ERP%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Ratul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ERP%20Specialist&descAlignY=55&descSize=16" width="100%"/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;ERP+Systems+Builder+%F0%9F%8F%97%EF%B8%8F;Next.js+%2B+MongoDB+Enthusiast+%F0%9F%8C%BF;Always+Learning%2C+Always+Building+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Next.js+%2B+React+%2B+MongoDB+Developer+%F0%9F%9A%80;ERP+Systems+for+Manufacturing+%F0%9F%8F%AD;IEEE+Published+Researcher+%F0%9F%93%84;Always+Learning%2C+Always+Shipping+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <p>
   <a href="mailto:mdratul47782@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-mdratul47782-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/md-ratul-05a366283">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Ratul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mdratul47782">
-    <img src="https://img.shields.io/github/followers/mdratul47782?label=Followers&style=for-the-badge&color=22c55e&labelColor=1a1a2e" />
+  <a href="tel:+8801749717865">
+    <img src="https://img.shields.io/badge/Phone-%2B880%201749717865-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=mdratul47782&label=Profile+Views&color=22c55e&style=for-the-badge" />
 </p>
@@ -27,18 +27,179 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const ratul = {
-  location:   "📍 Chattogram, Bangladesh",
-  role:       "💼 Executive – ERP @ HKD Outdoor Innovations LTD",
-  focus:      ["Full-Stack Development", "ERP Systems", "Quality Control Automation"],
-  building:   "🏗️ Finished Goods Warehouse app with Next.js + MongoDB",
-  learning:   ["React Accelerator (Learn With Sumit)", "System Design", "TypeScript"],
-  openTo:     ["React/Next.js Projects", "MERN Stack", "Open Source Collaboration"],
-  funFact:    "I make websites responsive... but not my sleep schedule 😴",
-  contact:    "mdratul47782@gmail.com"
+```typescript
+const ratul: Developer = {
+  name:       "MD. Ratul",
+  title:      "ERP Software Engineer | Full-Stack Developer",
+  location:   "📍 Dhanmondi, Dhaka-1209, Bangladesh",
+  education:  "BSc in CSE — Green University of Bangladesh (CGPA: 3.01)",
+  currentJob: "Executive – ERP @ HKD Outdoor Innovations Ltd. (Nov 2025 – Present)",
+
+  expertise:  [
+    "Next.js 15 App Router", "React 19", "Node.js", "Express.js",
+    "MongoDB", "GraphQL", "Socket.IO", "TypeScript", "JWT Auth",
+    "ERP Systems", "Manufacturing Systems"
+  ],
+
+  currentlyBuilding: [
+    "🏭 Production & Quality Management ERP — Live at HKD",
+    "🏠 FG Warehouse MS — Carton Allocation + Barcode Printing",
+  ],
+
+  achievement: "📄 IEEE Paper at QPAIN 2025 — 94.08% accuracy on plant disease detection",
+  funFact:     "I make websites responsive... but not my sleep schedule 😴",
 };
 ```
+
+---
+
+## 💼 Professional Experience
+
+### 🧩 Executive – ERP | HKD Outdoor Innovations Limited
+**Nov 2025 – Present · KEPZ, Chattogram, Bangladesh**
+
+| Module Built | Impact |
+|---|---|
+| 🏭 Quality Control System | Real-time line-wise quality tracking |
+| 📊 Production Dashboard | Hourly target vs achievement, efficiency % |
+| 🔧 Maintenance Module | Machine inventory & line layout management |
+| 👥 HR Module | Department-level data management |
+| 🏠 FG Warehouse MS | Visual carton allocation + barcode printing |
+
+- ✅ Designed & developed **5 ERP modules** serving multiple departments
+- ✅ Built role-based access: `Production` / `Quality` / `Maintenance` / `IE` / `Management`
+- ✅ Implemented building-level data isolation using custom hooks
+- ✅ Automated reporting features to enhance decision-making & productivity
+
+---
+
+### 🧪 Web Developer Intern | Battery Low Interactive Ltd.
+**July 2024 – Oct 2024 · Bangladesh**
+
+- 🎨 Transformed UI/UX designs into interactive React interfaces
+- ⚡ React, JavaScript, CSS — API integration & performance optimization
+- 🔍 Code reviews, debugging, and quality assurance
+- 🤝 Led a project group; delivered projects on time in agile environment
+
+---
+
+## 🚀 Featured Projects
+
+### 🏭 Production · Quality · Maintenance · IE Management System
+> *Live & Running at HKD Outdoor Innovations Ltd.*
+
+<a href="https://github.com/mdratul47782/Quality_Production_Management_App_V2.0">
+  <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://hkdoutdoorinnovationsltd.vercel.app">
+  <img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+- 📈 Line-wise **hourly targets vs achievements**, efficiency %, style-wise WIP — real time
+- 🔐 Role-based access control with **building-level data isolation**
+- 🗺️ IE Department: machine inventory + **machine line layout management**
+- 🏷️ **Stack:** `Next.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `DaisyUI` `JWT` `Cloudinary` `Framer Motion`
+
+---
+
+### 🏠 FG Warehouse MS — Allocation, Shipments & Barcode Printing
+> *Live & Running at HKD Outdoor Innovations Ltd.*
+
+<a href="https://github.com/mdratul47782/FG_Project_Claude">
+  <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+> 🔑 Demo Login — **Username:** `Ratul` · **Password:** `123456`
+
+- 📦 Visual **carton allocation** into warehouse rows (continuous/segmented) with live placement engine + CBM metrics
+- 🔍 Shipment scanning → auto-generate carton IDs → **barcode label printing** with carton range support
+- 🛠️ Admin editor: placement policies, row/warehouse switching, **searchable inventory** (size-wise PCS + carton locations)
+- 🏷️ **Stack:** `Next.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `DaisyUI` `JWT` `Framer Motion`
+
+---
+
+## 📄 Research & Publication
+
+<div align="center">
+
+### 🔬 Advancing Plant Disease Detection with Deep Learning
+**IEEE International Conference on Quantum Photonics, AI & Networking (QPAIN 2025)**
+BAUST, Bangladesh · Paper ID: **214**
+
+</div>
+
+- 🌿 Developed **PlantNet** — custom model based on MobileNet V1 for real-time mobile plant disease detection
+- 🎯 Achieved **94.08% accuracy** — surpassing CNN, InceptionV3, and VGG16 benchmarks
+- 📱 Optimized specifically for **mobile application** deployment
+
+---
+
+## 🎓 Education & Courses
+
+| Degree | Institution | Year | Grade |
+|---|---|---|---|
+| 🎓 BSc in Computer Science & Engineering | Green University of Bangladesh | 2020 – 2024 | CGPA: 3.01 |
+
+**📚 React Accelerator Course** — *Learn With Sumit*
+- 5-month intensive: React, Next.js, state management, advanced patterns & ecosystem tools
+- Built **15+ projects** including a full Learning Management Platform
+- Received ✅ Certificate & Job Recommendation Letter
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
+
+### 🔐 Auth & Services
+<p>
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
@@ -77,115 +238,6 @@ const ratul = {
 
 ---
 
-## 💼 Professional Experience
-
-### 🧩 Executive – ERP | HKD Outdoor Innovations LTD
-
-```javascript
-const myImpact = {
-  role:        "Building Next.js-based full-stack ERP for production & quality tracking",
-  automation:  "Converting manual workflows → automated digital systems",
-  modules:     ["Line-wise Reports", "Hourly Dashboards", "Real-time Data Viz"],
-  techStack:   ["Next.js", "React", "Node.js", "MongoDB", "REST APIs"],
-};
-```
-
-| Achievement | Impact |
-|---|---|
-| ✅ Custom ERP modules | Serving **10+ production lines** |
-| ✅ Automation | Reduced manual data entry by **70%** |
-| ✅ Real-time dashboards | Instant quality control insights |
-| ✅ MongoDB integration | Centralized data management |
-
----
-
-### 🧪 Frontend Developer Intern | Battery Low Interactive Ltd.
-
-- 🎨 Transformed UI/UX designs into interactive React interfaces
-- ⚡ Worked with **React, JavaScript, CSS** and REST API integration
-- 🔧 State management & performance optimization
-- 🤝 Agile cross-functional team collaboration
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### 📚 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mdratul47782/Quality_Production_Management_App_V2.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdratul47782&repo=Quality_Production_Management_App_V2.0&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff" />
-</a>
-<a href="https://github.com/mdratul47782/FG_Project_Claude">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdratul47782&repo=FG_Project_Claude&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff" />
-</a>
-
-</div>
-
----
-
-## 🏗️ Currently Building
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏠 **FG Warehouse App** | Row allocation + Carton scanning platform | Next.js, MongoDB |
-| 📊 **ERP Dashboard** | Production line QC with hourly tracking | React, Recharts |
-| 🎨 **Portfolio Website** | Modern responsive portfolio | Next.js, Tailwind |
-
----
-
-## 🌟 Goals & Focus
-
-- 🔨 **Building:** Custom ERP solutions for manufacturing operations
-- 📚 **Learning:** Advanced React patterns, Next.js App Router, System Design
-- 🤝 **Collaborating:** Open to MERN stack & open source projects
-- 🎯 **2025 Goals:** Master TypeScript, build a SaaS product, 10+ open source contributions
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -220,9 +272,10 @@ const myImpact = {
   <a href="https://kaggle.com/mdratul2149">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <a href="mailto:mdratul47782@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-📧 **mdratul47782@gmail.com**
 
 </div>
 
@@ -238,9 +291,9 @@ const myImpact = {
 
 ---
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<div align="center">
 
 ### 💚 If my work helped you, drop a ⭐ on some repos!
 
