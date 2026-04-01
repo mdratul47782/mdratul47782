@@ -1,31 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD.%20Ratul&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ERP%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD.%20Ratul&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ERP%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Built+ERP+Systems+with+Next.js+%2B+React+%2B+Node.js+%2B+Express+%F0%9F%8F%AD;MongoDB+%2B+PostgreSQL+Powered+Full-Stack+Apps+%F0%9F%9A%80;IEEE+Published+Researcher+%F0%9F%93%84;Always+Learning%2C+Always+Shipping+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Built+ERP+Systems+with+Next.js+%2B+React+%2B+Node.js+%2B+Express;MongoDB+%2B+PostgreSQL+Powered+Full-Stack+Apps;IEEE+Published+Researcher;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<p>
-  <a href="mailto:mdratul47782@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mdratul47782-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-ratul-05a366283">
-    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Ratul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="tel:+8801749717865">
-    <img src="https://img.shields.io/badge/Phone-%2B880%201749717865-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mdratul47782&label=Profile+Views&color=22c55e&style=for-the-badge" />
-</p>
+<a href="mailto:mdratul47782@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mdratul47782-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/md-ratul-05a366283">
+  <img src="https://img.shields.io/badge/LinkedIn-Md.%20Ratul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="tel:+8801749717865">
+  <img src="https://img.shields.io/badge/Phone-%2B880%201749717865-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=mdratul47782&label=Profile+Views&color=22c55e&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const ratul: Developer = {
@@ -49,49 +47,49 @@ const ratul: Developer = {
 ```
 
 <table>
-  <tr><td>📍 <b>Location</b></td><td>Dhanmondi, Dhaka-1209, Bangladesh</td></tr>
-  <tr><td>💼 <b>Current Role</b></td><td>Executive – ERP @ HKD Outdoor Innovations Ltd.</td></tr>
-  <tr><td>🎓 <b>Education</b></td><td>BSc CSE — Green University of Bangladesh (CGPA: 3.01)</td></tr>
-  <tr><td>🔨 <b>Building</b></td><td>ERP modules live in production at HKD</td></tr>
-  <tr><td>📚 <b>Learning</b></td><td>React Native · Docker · Python · System Design</td></tr>
-  <tr><td>📧 <b>Contact</b></td><td>mdratul47782@gmail.com</td></tr>
+  <tr><td><b>Location</b></td><td>Dhanmondi, Dhaka-1209, Bangladesh</td></tr>
+  <tr><td><b>Current Role</b></td><td>Executive – ERP @ HKD Outdoor Innovations Ltd.</td></tr>
+  <tr><td><b>Education</b></td><td>BSc CSE — Green University of Bangladesh (CGPA: 3.01)</td></tr>
+  <tr><td><b>Building</b></td><td>ERP modules live in production at HKD</td></tr>
+  <tr><td><b>Learning</b></td><td>React Native · Docker · Python · System Design</td></tr>
+  <tr><td><b>Contact</b></td><td>mdratul47782@gmail.com</td></tr>
 </table>
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🏢 Executive – ERP | HKD Outdoor Innovations Limited
+### Executive – ERP | HKD Outdoor Innovations Limited
 **Nov 2025 – Present · KEPZ, Chattogram, Bangladesh**
 
-| 🧩 Module Built | 📈 Impact |
+| Module Built | Impact |
 |---|---|
-| 🛡️ Quality Control System | Real-time line-wise quality tracking |
-| 📊 Production Dashboard | Hourly target vs achievement, efficiency % |
-| 🔧 Maintenance Module | Machine inventory & line layout management |
-| 👥 HR Module | Department-level data management |
-| 🏠 FG Warehouse MS | Visual carton allocation + barcode printing |
+| Quality Control System | Real-time line-wise quality tracking |
+| Production Dashboard | Hourly target vs achievement, efficiency % |
+| Maintenance Module | Machine inventory & line layout management |
+| HR Module | Department-level data management |
+| FG Warehouse MS | Visual carton allocation + barcode printing |
 
-- ✅ Designed & developed **5 ERP modules** serving multiple departments
-- ✅ Built role-based access: `Production` / `Quality` / `Maintenance` / `IE` / `Management`
-- ✅ Implemented building-level data isolation using custom hooks
-- ✅ Automated reporting features to enhance decision-making & productivity
+- Designed & developed **5 ERP modules** serving multiple departments
+- Built role-based access: `Production` / `Quality` / `Maintenance` / `IE` / `Management`
+- Implemented building-level data isolation using custom hooks
+- Automated reporting features to enhance decision-making & productivity
 
 ---
 
-### 🧪 Web Developer Intern | Battery Low Interactive Ltd.
+### Web Developer Intern | Battery Low Interactive Ltd.
 **July 2024 – Oct 2024 · Bangladesh**
 
-- 🎨 Transformed UI/UX designs into interactive React interfaces
-- ⚡ React, JavaScript, CSS — API integration & performance optimization
-- 🔍 Code reviews, debugging, and quality assurance
-- 🤝 Led a project group; delivered projects on time in agile environment
+- Transformed UI/UX designs into interactive React interfaces
+- React, JavaScript, CSS — API integration & performance optimization
+- Code reviews, debugging, and quality assurance
+- Led a project group; delivered projects on time in an agile environment
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏭 Production · Quality · Maintenance · IE Management System
+### Production · Quality · Maintenance · IE Management System
 > *Live & Running at HKD Outdoor Innovations Ltd.*
 
 <a href="https://github.com/mdratul47782/Quality_Production_Management_App_V2.0">
@@ -101,63 +99,63 @@ const ratul: Developer = {
   <img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-- 📈 Line-wise **hourly targets vs achievements**, efficiency %, style-wise WIP — real time
-- 🔐 Role-based access control with **building-level data isolation**
-- 🗺️ IE Department: machine inventory + **machine line layout management**
-- 🏷️ **Stack:** `Next.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `DaisyUI` `JWT` `Cloudinary` `Framer Motion`
+- Line-wise **hourly targets vs achievements**, efficiency %, style-wise WIP — real time
+- Role-based access control with **building-level data isolation**
+- IE Department: machine inventory + **machine line layout management**
+- **Stack:** `Next.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `DaisyUI` `JWT` `Cloudinary` `Framer Motion`
 
 ---
 
-### 🏠 FG Warehouse MS — Allocation, Shipments & Barcode Printing
+### FG Warehouse MS — Allocation, Shipments & Barcode Printing
 > *Live & Running at HKD Outdoor Innovations Ltd.*
 
 <a href="https://github.com/mdratul47782/FG_Project_Claude">
   <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-> 🔑 Demo Login — **Username:** `Ratul` · **Password:** `123456`
+> Demo Login — **Username:** `Ratul` · **Password:** `123456`
 
-- 📦 Visual **carton allocation** into warehouse rows (continuous/segmented) with live placement engine + CBM metrics
-- 🔍 Shipment scanning → auto-generate carton IDs → **barcode label printing** with carton range support
-- 🛠️ Admin editor: placement policies, row/warehouse switching, **searchable inventory**
-- 🏷️ **Stack:** `Next.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `DaisyUI` `JWT` `Framer Motion`
+- Visual **carton allocation** into warehouse rows (continuous/segmented) with live placement engine + CBM metrics
+- Shipment scanning — auto-generate carton IDs — **barcode label printing** with carton range support
+- Admin editor: placement policies, row/warehouse switching, **searchable inventory**
+- **Stack:** `Next.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `DaisyUI` `JWT` `Framer Motion`
 
 ---
 
-## 📄 Research & Publication
+## Research & Publication
 
 <div align="center">
 
-### 🔬 Advancing Plant Disease Detection with Deep Learning
-**IEEE International Conference on Quantum Photonics, AI & Networking (QPAIN 2025)**
+### Advancing Plant Disease Detection with Deep Learning
+**IEEE International Conference on Quantum Photonics, AI & Networking (QPAIN 2025)**  
 BAUST, Bangladesh · Paper ID: **214**
 
 </div>
 
-- 🌿 Developed **PlantNet** — custom model based on MobileNet V1 for real-time mobile plant disease detection
-- 🎯 Achieved **94.08% accuracy** — surpassing CNN, InceptionV3, and VGG16 benchmarks
-- 📱 Optimized specifically for **mobile application** deployment
+- Developed **PlantNet** — custom model based on MobileNet V1 for real-time mobile plant disease detection
+- Achieved **94.08% accuracy** — surpassing CNN, InceptionV3, and VGG16 benchmarks
+- Optimized specifically for **mobile application** deployment
 
 ---
 
-## 🎓 Education & Courses
+## Education & Courses
 
 | Degree | Institution | Year | Grade |
 |---|---|---|---|
-| 🏫 BSc in Computer Science & Engineering | Green University of Bangladesh | 2020 – 2024 | CGPA: 3.01 |
+| BSc in Computer Science & Engineering | Green University of Bangladesh | 2020 – 2024 | CGPA: 3.01 |
 
-**📚 React Accelerator Course** — *Learn With Sumit*
+**React Accelerator Course** — *Learn With Sumit*
 - 5-month intensive: React, Next.js, state management, advanced patterns & ecosystem tools
 - Built **15+ projects** including a full Learning Management Platform
-- ✅ Certificate & Job Recommendation Letter received
+- Certificate & Job Recommendation Letter received
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -168,7 +166,7 @@ BAUST, Bangladesh · Paper ID: **214**
   <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -179,7 +177,7 @@ BAUST, Bangladesh · Paper ID: **214**
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-### 🔐 Auth & Services
+### Auth & Services
 <p>
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -189,7 +187,7 @@ BAUST, Bangladesh · Paper ID: **214**
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -199,7 +197,7 @@ BAUST, Bangladesh · Paper ID: **214**
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 📖 Currently Learning
+### Currently Learning
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -210,7 +208,7 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -225,7 +223,7 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -235,7 +233,7 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -245,7 +243,7 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -259,36 +257,34 @@ BAUST, Bangladesh · Paper ID: **214**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/md-ratul-05a366283">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/arafatullah.al.muaz/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ratul__aka__muaz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/ratul01752362">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/mdratul2149">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:mdratul47782@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/md-ratul-05a366283">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/arafatullah.al.muaz/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://instagram.com/ratul__aka__muaz">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://discord.gg/ratul01752362">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://kaggle.com/mdratul2149">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="mailto:mdratul47782@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 💬 Dev Quote
+## Dev Quote
 
 <div align="center">
 
@@ -302,6 +298,6 @@ BAUST, Bangladesh · Paper ID: **214**
 
 <div align="center">
 
-### 💚 If my work helped you, drop a ⭐ on some repos!
+### If my work helped you, drop a star on some repos!
 
 </div>
