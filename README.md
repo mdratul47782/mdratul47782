@@ -27,15 +27,31 @@
 
 ```typescript
 const ratul: Developer = {
-  location:   "Dhaka, Bangladesh",
-  currentJob: "Building ERP systems at HKD Outdoor Innovations Ltd.",
-  stack:      ["Next.js", "React", "Node.js", "Express", "MongoDB", "PostgreSQL"],
+  name:       "Ratul",
+  location:   "Dhaka, Bangladesh 🇧🇩",
+  currentJob: "Shipping ERP systems at HKD Outdoor Innovations Ltd.",
+
+  stack: {
+    frontend:  ["Next.js", "React"],
+    backend:   ["Node.js", "Express"],
+    databases: ["MongoDB", "PostgreSQL"],
+  },
+
   currentlyShipping: [
-    "Production & Quality Management ERP — actually live on factory floors",
+    "Production & Quality Management ERP — live on actual factory floors",
     "FG Warehouse system — carton tracking, barcode printing, the works",
   ],
-  published:  "IEEE QPAIN 2025 — plant disease detection at 94.08% accuracy",
-  funFact:    "I make websites responsive... but not my sleep schedule",
+
+  research: {
+    venue:    "IEEE QPAIN 2025",
+    topic:    "Plant disease detection",
+    accuracy: "94.08%",
+    status:   "Published",
+  },
+
+  funFact: "Makes websites responsive... but not his sleep schedule.",
+
+  getStatus: () => "Building things that actually run in production",
 };
 ```
 
